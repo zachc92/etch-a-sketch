@@ -1,0 +1,11 @@
+.mainBody {
+    display: flex;
+}
+
+#container {
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
